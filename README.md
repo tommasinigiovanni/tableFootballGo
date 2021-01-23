@@ -1,6 +1,8 @@
 # TableFootballGo
 The scope of this web app is to have scoreboard for your table football matches
 
+![header image](img/tableFootballGo.jpeg)
+
 ### Run the program for DEV purpose
 We will using docker and docker-compose to ease the testing stage
 
